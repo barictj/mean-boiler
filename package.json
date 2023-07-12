@@ -27,7 +27,7 @@
     "@nguniversal/express-engine": "^9.0.2",
     "body-parser": "^1.19.0",
     "express": "^4.15.2",
-    "mongoose": "^5.9.16",
+    "mongoose": "^5.13.15",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
